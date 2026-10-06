@@ -113,7 +113,7 @@ K-Fold produces a piecewise equity curve that appears profitable in isolation bu
 
 An interactive Streamlit application is available for exploring the parameters and reproducing the experiment.
 
-Live demo: [Link to deployed app]
+**Live demo:** [https://whycpcvisbest.streamlit.app/](https://whycpcvisbest.streamlit.app/)
 
 Features:
 - Adjustable data generation parameters (seed, length, number of regimes)
